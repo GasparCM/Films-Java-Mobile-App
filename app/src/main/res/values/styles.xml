@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="YourSpinnerTheme" parent="Widget.AppCompat.Spinner">
+        <item name="android:textColor">#FF0000</item> <!-- Cambia #FF0000 al color que desees -->
+    </style>
+
+    <style name="AlertDialogCustomStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <!-- Estilo para el diálogo de alerta -->
+        <item name="android:windowBackground">@drawable/degradado</item> <!-- Fondo del diálogo -->
+        <item name="android:textColorPrimary">@color/white</item> <!-- Color del texto del diálogo -->
+
+        <!-- Estilo para el botón positivo -->
+        <item name="android:buttonBarButtonStyle">@style/AlertDialogPositiveButtonStyle</item>
+    </style>
+
+    <style name="AlertDialogPositiveButtonStyle" parent="Widget.AppCompat.Button.ButtonBar.AlertDialog">
+        <item name="android:textColor">@color/white</item> <!-- Color del texto del botón positivo -->
+    </style>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mis Peliculas</string>
+    <string name="title_signup">REGISTRARSE</string>
+    <string name="title_login">INICIAR SESION</string>
+    <string name="txt_btn_login">INICIAR</string>
+    <string name="txt_btn_signup">REGISTRARSE</string>
+    <string name="txt_no_account">No tienes cuenta todavia ? Registrate</string>
+    <string name="txt_haveaccount">Ya tienes cuenta ? Iniciar Sesion</string>
+    <string name="txt_password">Contraseña</string>
+    <string name="txt_email">Correo Electronico</string>
+    <string name="txt_name">Nombre</string>
+    <string name="txt_surname">Apellidos</string>
+    <string name="txt_repeat_passw">Repetir Contraseña</string>
+    <string name="txt_security_question">Pregunta de Seguridad</string>
+    <string name="txt_answer">Respuesta</string>
+    <string name="txt_birthdate">Fecha de Nacimiento</string>
+    <string name="txt_interests">Intereses</string>
+    <string name="txt_second_factor">Segundo Factor</string>
+    <string name="txt_activate">Activar</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="options_preguntaSeguridad">
+        <item>¿Animal favorito?</item>
+        <item>¿Ciudad favorita?</item>
+        <item>¿Cuál es el nombre de tu mejor amigo?</item>
+    </string-array>
+
+    <string-array name="options_intereses">
+        <item>Tecnología</item>
+        <item>Deportes</item>
+        <item>Redes sociales</item>
+        <item>Cine</item>
+        <item>OTROS FALTA HACERLO</item>
+    </string-array>
+
+    <string-array name="options_generos">
+        <item>Acción</item>
+        <item>Drama</item>
+        <item>Comedia</item>
+        <item>Ciencia ficción</item>
+        <item>Romance</item>
+    </string-array>
+
+</resources>

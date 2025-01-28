@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Movies</string>
+    <string name="title_signup">SIGN UP</string>
+    <string name="title_login">LOG IN</string>
+    <string name="txt_btn_login">START</string>
+    <string name="txt_password">Password</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_name">Name</string>
+    <string name="txt_surname">Surnames</string>
+    <string name="txt_repeat_passw">Repeat password</string>
+    <string name="txt_security_question">Security Question</string>
+    <string name="txt_answer">Answer</string>
+    <string name="txt_birthdate">Birthdate</string>
+    <string name="txt_interests">Interests</string>
+    <string name="txt_second_factor">Second Factor</string>
+    <string name="txt_activate">Activate</string>
+    <string name="txt_btn_signup">SIGN UP</string>
+    <string name="txt_no_account">You don\'t have an account yet? Sign up</string>
+    <string name="txt_haveaccount">Do you already have an account? Log in</string>
+</resources>

@@ -1,0 +1,65 @@
+# Directorios y archivos de compilación
+/build/
+*/build/
+*/bin/
+*/gen/
+*/out/
+*.iml
+
+# Configuración de Android Studio
+/.idea/
+/.gradle/
+/local.properties
+/.vscode/
+
+# Archivos de caché y temporales
+.gradle/
+/captures/
+/*.log
+*.class
+*.DS_Store
+*.swp
+*.swo
+*.swn
+*.lock
+
+# Archivos de usuario de IntelliJ IDEA/Android Studio
+*.ipr
+*.iws
+*.jks
+
+# Configuración personal y credenciales
+/local.properties
+/.env
+*.keystore
+*.jks
+*.key
+*.pem
+
+# Archivos del sistema operativo
+Thumbs.db
+.DS_Store
+
+# Archivos generados por Gradle
+.gradle
+gradle-app.setting
+gradle-wrapper.properties
+gradle/wrapper/gradle-wrapper.jar
+
+# Caché de paquetes
+**/node_modules/
+**/.npm/
+**/yarn.lock
+**/package-lock.json
+
+# Base de datos local
+*.db
+*.sqlite
+
+# Archivos de compilación específicos de Android
+*.apk
+*.aab
+
+# Otros archivos que no deben subirse
+*.log
+*.tmp
